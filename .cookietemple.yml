@@ -1,0 +1,21 @@
+cookietemple_version: '1.2.2 # <<COOKIETEMPLE_NO_BUMP>>'
+domain: cli
+language: python
+project_slug: ct1
+project_slug_no_hyphen: ct1
+template_version: '1.1.0 # <<COOKIETEMPLE_NO_BUMP>>'
+template_handle: cli-python
+github_username: fundamentals-of-data-science
+creator_github_username: andrewcstewart
+is_github_repo: true
+is_repo_private: false
+is_github_orga: true
+github_orga: fundamentals-of-data-science
+full_name: Andrew Stewart
+email: andrew.c.stewart@gmail.com
+project_name: ct1
+project_short_description: ct1. A cookietemple based .
+version: 0.1.0
+license: MIT
+command_line_interface: Click
+testing_library: pytest
